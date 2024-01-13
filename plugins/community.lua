@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.lua" },
 
   { import = "astrocommunity.pack.helm" },
   { import = "astrocommunity.pack.docker" },
