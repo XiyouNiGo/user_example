@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
 
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.bash" },
