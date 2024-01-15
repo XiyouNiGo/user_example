@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  { import = "astrocommunity.git.git-blame-nvim" },
 
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.bash" },
