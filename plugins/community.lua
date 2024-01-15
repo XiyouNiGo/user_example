@@ -8,7 +8,7 @@ return {
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
-  -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.completion.cmp-cmdline" },
 
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.bash" },
