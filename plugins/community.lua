@@ -7,6 +7,8 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   { import = "astrocommunity.motion.flash-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" },
+  { import = "astrocommunity.motion.mini-ai" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
