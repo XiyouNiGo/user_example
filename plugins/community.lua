@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.lsp.garbage-day-nvim" },
+  { import = "astrocommunity.lsp.nvim-lsp-file-operations" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.git.git-blame-nvim" },
