@@ -29,5 +29,7 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.toml" },
+  { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.pack.markdown" },
 }
